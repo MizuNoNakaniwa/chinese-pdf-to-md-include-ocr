@@ -1,6 +1,6 @@
 **中文** | [English](./README_EN.md)
 
-# pdf2md-ocr — 扫描版 PDF 批量 OCR 转 Markdown
+# Chinese-pdf-to-md-ocr —中文 PDF 批量 OCR 转换 Markdown
 
 把当前文件夹里的**扫描版 PDF**（图片型、没法选中文字的那种），一键批量做中文 OCR，输出成 Markdown（`.md`），按页分节。
 
